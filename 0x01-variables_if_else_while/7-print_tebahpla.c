@@ -5,14 +5,13 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+int main(void) 
 {
-	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	for (i = 26; i >= 26; i--)
+	for (i = 122; i > 96; i--)
 	{
-		putchar(alp[i]);
+		putchar(i);
 	}
 	putchar('\n');
 	return (0);
