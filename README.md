@@ -1,1 +1,1 @@
-This is a repository for all C-programming projects
+C - More Pointers, Arrays and Strings
