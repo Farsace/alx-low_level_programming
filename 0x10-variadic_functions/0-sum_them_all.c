@@ -8,12 +8,11 @@
  * @...: A variable number of parameters to calculate the sum of.
  *
  * Return: Always 0.
- * 
  */
 int sum_them_all(const unsigned int n, ...)
 {
 	va_list valist;
-	unsigned int i; 
+	unsigned int i;
 	int sum = 0;
 
 
