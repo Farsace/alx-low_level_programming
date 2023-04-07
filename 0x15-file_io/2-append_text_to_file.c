@@ -3,7 +3,7 @@
 /**
  * append_text_to_file - appends text at the end of a file
  * @filename: filename is the name of the file
- * @text_content: text content is the NULL terminated string to add at the end of the file
+ * @text_content: add at the end of the file
  *
  * Return: return 1 if the file exists. return -1 if the file does not exist
  * or if it fails.
